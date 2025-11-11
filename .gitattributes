@@ -1,2 +1,2 @@
-*.yml linguist-detectable=true
-_config.yml linguist-language=HTML
+*.html linguist-language=HTML
+*.md linguist-language=Markdown
