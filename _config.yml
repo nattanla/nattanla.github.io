@@ -1,13 +1,10 @@
-gem "minimal-mistakes-jekyll"
-bundle
-title: Data Analyst Portfolio | [Nathaniel Tan]
+title: "Data Analyst Portfolio | Nathaniel Tan"
 description: "Exploring data through Python, SQL, and visualisation."
 theme: minimal-mistakes-jekyll
 
 # Personal Info
-name: "[Your Name]"
-email: "[youremail@example.com]"
-github_username: [yourusername]
-linkedin_username: [yourlinkedin]
+name: "Nathaniel Tan"
+email: "youremail@example.com"
+github_username: yourusername
+linkedin_username: yourlinkedin
 show_downloads: false
-
