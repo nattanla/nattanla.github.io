@@ -13,6 +13,5 @@ description: >
 
 github: false
 
-theme: jekyll-theme-minimal
-
+theme: minimal-mistakes-jekyll
 
