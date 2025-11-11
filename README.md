@@ -4,6 +4,13 @@
 
 I’m pivoting into a data analyst role and using this portfolio to document my projects, growth, and technical skills.
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+
 ## 📊 Projects
 
 ### 💳 Fraud & Scam Detection (Python + Tableau)
