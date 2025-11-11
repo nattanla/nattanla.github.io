@@ -1,10 +1,6 @@
 title: "Data Analyst Portfolio | [Nathaniel Tan]"
 description: "Exploring data through Python, SQL, and visualisation."
-url: "https://nattanla.github.io"
-baseurl: ""
-gem 'jekyll-include-cache'
-plugins:
-  - jekyll-include-cache
+theme: minimal-mistakes-jekyll
 
 # Personal Info
 name: "[Your Name]"
