@@ -14,4 +14,6 @@ description: >
 github: false
 
 theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
 
