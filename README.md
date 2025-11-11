@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nathaniel Tan
+# Hi, I'm Nathaniel Tan 👋
 
 **Data Analyst in Transition**
 
