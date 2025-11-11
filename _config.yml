@@ -1,3 +1,5 @@
+gem "minimal-mistakes-jekyll"
+bundle
 title: "Data Analyst Portfolio | [Nathaniel Tan]"
 description: "Exploring data through Python, SQL, and visualisation."
 theme: minimal-mistakes-jekyll
