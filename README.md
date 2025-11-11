@@ -40,12 +40,6 @@ I’m pivoting into a data analyst role and using this portfolio to document my 
 
 [View Full Project →](https://github.com/nattanla/US_election)
 
-## 🌐 Connect With Me
-
-📍 Singapore  
-🔗 [LinkedIn](https://www.linkedin.com/in/nathaniel-tanla)  
-💻 [GitHub](https://github.com/nattanla)
-
 ---
 
 > “Data tells stories — I help organisations read them.”
