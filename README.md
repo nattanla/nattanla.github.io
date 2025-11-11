@@ -1,1 +1,8 @@
-# nattanla.github.io
+# Data Analyst
+
+### Education
+...
+
+### Projects
+Fraud
+HDB price
