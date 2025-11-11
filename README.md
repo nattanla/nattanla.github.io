@@ -33,7 +33,7 @@ I’m pivoting into a data analyst role and using this portfolio to document my 
 
 🔗 *Tools:* Python, Pandas
 
-[View Full Project →](https://github.com/nattanla/hdb_resale_prediction)
+[View Full Project →](https://github.com/nattanla/hdb_resale_prediction/blob/main/README.md)
 
 ---
 
