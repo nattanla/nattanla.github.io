@@ -21,7 +21,7 @@ I’m pivoting into a data analyst role and using this portfolio to document my 
 
 🔗 *Tools:* Python, Data Visualisation
 
-[View Full Project →](https://github.com/nattanla/fraud-scam-detection)
+[View Full Project →](https://github.com/nattanla/fraud-scam-detection/blob/main/README.md)
 
 ---
 
