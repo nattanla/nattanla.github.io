@@ -9,8 +9,9 @@ description: >
   <br><br>
   <a href="https://www.linkedin.com/in/nathaniel-tanla/"> 🔗 [LinkedIn] </a>
   <br><br>
-  💻 [GitHub](https://github.com/nattanla)
-  <a href="https://www.linkedin.com/in/nathaniel-tanla/"> My LinkedIn </a>
+  <a href="https://github.com/nattanla/"> 💻 [GitHub] </a>
+
+github: false
 
 theme: jekyll-theme-minimal
 
