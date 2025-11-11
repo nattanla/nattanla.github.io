@@ -14,7 +14,7 @@ I’m pivoting into a data analyst role and using this portfolio to document my 
 
 🔗 *Tools:* Python, Data Visualisation
 
-[View Full Project →](https://github.com/yourusername/fraud-scam-detection)
+[View Full Project →](https://github.com/nattanla/fraud-scam-detection)
 
 ---
 
@@ -26,7 +26,7 @@ I’m pivoting into a data analyst role and using this portfolio to document my 
 
 🔗 *Tools:* Python, Pandas
 
-[View Full Project →](https://github.com/yourusername/fraud-scam-detection)
+[View Full Project →](https://github.com/nattanla/hdb_resale_prediction)
 
 ---
 
@@ -38,7 +38,7 @@ I’m pivoting into a data analyst role and using this portfolio to document my 
 
 🔗 *Tools:* Power BI, DAX, Excel
 
-[View Full Project →](https://github.com/yourusername/fraud-scam-detection)
+[View Full Project →](https://github.com/nattanla/US_election)
 
 ## 🌐 Connect With Me
 
