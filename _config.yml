@@ -1,17 +1,5 @@
-title: "Data Analyst Portfolio | Nathaniel Tan"
-description: "Exploring data through Python, SQL, and visualisation."
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
-
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-include-cache
-
-
-# Personal Info
-name: "Nathaniel Tan"
-email: "youremail@example.com"
-github_username: yourusername
-linkedin_username: yourlinkedin
-show_downloads: false
+- jekyll-remote-theme
+title: [Nathaniel Tan]
+description: [Exploring data through Python, SQL, and visualisation]
