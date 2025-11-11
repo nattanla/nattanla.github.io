@@ -1,14 +1,35 @@
+
+
 title: "Nathaniel Tan"
-#logo:
-description: >
-  Exploring data through Python, SQL, and visualisation
-  <br><br>
+description: |
+  Exploring data through Python, SQL, and visualisation.
+
   ## 🌐 Connect With Me
-  <br><br>
-  📍 Singapore  
-  🔗 [LinkedIn](https://www.linkedin.com/in/nathaniel-tanla)  
-  💻 [GitHub](https://github.com/nattanla)
-  <a href="https://www.linkedin.com/in/nathaniel-tanla/"> My LinkedIn </a>
+  - 📍 Singapore
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/nathaniel-tanla)
+  - 💻 [GitHub](https://github.com/nattanla)
 
 theme: jekyll-theme-minimal
+
+# Optional polish
+#logo: /assets/images/profile.jpg      # add this file to your repo
+#favicon: /assets/images/favicon.png   # add a 32×32 or 48×48 PNG
+
+# Site metadata (improves SEO & link previews)
+url: "https://nattanla.github.io"     # your Pages domain
+baseurl: ""                           # keep empty if served at root
+
+# Safe, GitHub-Pages-supported plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Kramdown = default Markdown engine on GitHub Pages
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# (Optional) Google Analytics
+# google_analytics: G-XXXXXXXXXX
+
 
