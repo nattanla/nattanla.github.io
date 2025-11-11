@@ -3,3 +3,19 @@ description: "Exploring data through Python, SQL, and visualisation."
 url: "https://nattanla.github.io"
 baseurl: ""
 theme: jekyll-theme-portfolio
+
+# Personal Info
+name: "[Your Name]"
+email: "[youremail@example.com]"
+github_username: [yourusername]
+linkedin_username: [yourlinkedin]
+show_downloads: false
+
+# Optional social icons
+social_links:
+  - name: LinkedIn
+    url: https://linkedin.com/in/[yourlinkedin]
+  - name: GitHub
+    url: https://github.com/[yourusername]
+  - name: Tableau
+    url: https://public.tableau.com/app/profile/[yourtableau]
