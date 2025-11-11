@@ -45,7 +45,7 @@ I’m pivoting into a data analyst role and using this portfolio to document my 
 
 🔗 *Tools:* Power BI, DAX, Excel
 
-[View Full Project →](https://github.com/nattanla/US_election)
+[View Full Project →](https://github.com/nattanla/US_election/blob/main/README.md)
 
 ---
 
