@@ -7,21 +7,21 @@ description: >
   <br><br>
   Exploring data through Python, SQL, and visualisation
   <br><br>
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-   <br><br>
-  ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-   <br><br>
-  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-   <br><br>
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-   <br><br>
-  ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-   <br><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python logo">
+  <br><br>
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" alt="SQL logo">
+  <br><br>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" alt="PowerBI logo">
+  <br><br>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau logo">
+  <br><br>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" alt="Excel logo">
+  <br><br>
   🌐 Connect With Me
   <br><br>
-  <a href="https://www.linkedin.com/in/nathaniel-tanla/"> 🔗 [LinkedIn] </a>
+  <a href="https://www.linkedin.com/in/nathaniel-tanla/"> 🔗 LinkedIn </a>
   <br><br>
-  <a href="https://github.com/nattanla/"> 💻 [GitHub] </a>
+  <a href="https://github.com/nattanla/"> 💻 GitHub </a>
 
 github: false
 
