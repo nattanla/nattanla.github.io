@@ -2,43 +2,62 @@
 layout: default
 ---
 
-## 🚀 Featured Projects
-
 <div class="two-column">
-  
   <div class="column">
-    <h3>🐍 Python & SQL</h3>
-    <p><b>Project Alpha:</b> An end-to-end analysis of Singapore housing data using Pandas and SQL queries.</p>
-    <a href="LINK_HERE">View Code →</a>
+    ## 📊 Projects
+
+    ### 💳 Fraud & Scam Detection
+    **Problem:** Analysed scam data to identify fraud patterns and at-risk victim groups.
+    - Developed models (**Logistic Regression**, **XGBoost**).
+    - Clustered data to identify high-risk groups.
+    - [View Full Project →](https://github.com/nattanla/fraud-scam-detection/blob/main/README.md)
+
+    <br>
+
+    ### 🏠 HDB Resale Price Prediction
+    **Problem:** Predictive models to estimate HDB resale prices across Singapore.
+    - Built **Linear Regression** and **XGBoost** models.
+    - Performed cleaning and feature engineering.
+    - [View Full Project →](https://github.com/nattanla/hdb_resale_prediction/blob/main/README.md)
   </div>
 
   <div class="column">
-    <h3>📊 Visualization</h3>
-    <p><b>Project Beta:</b> Interactive Power BI dashboard tracking retail sales performance and KPIs.</p>
-    <a href="LINK_HERE">View Dashboard →</a>
-  </div>
+    ### 🗳️ Election Analytics
+    **Problem:** Interactive dashboard for U.S. election voting trends.
+    - Designed KPI cards and maps in **Power BI**.
+    - Used DAX for competitiveness metrics.
+    - [View Full Project →](https://github.com/nattanla/US_election/blob/main/README.md)
 
+    <hr>
+
+    > “Data tells stories — I help organisations read them.”
+    
+    ### 🛠 Tools & Stack
+    - **Python:** Pandas, Scikit-learn
+    - **SQL:** Data Extraction
+    - **Viz:** Power BI, Tableau
+  </div>
 </div>
 
 <style>
+.two-column {
+  display: flex;
+  gap: 40px;
+}
+
+.column {
+  flex: 1;
+}
+
+/* Custom styling to make the headers look better */
+h3 {
+  color: #0366d6;
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
   .two-column {
-    display: flex;
-    gap: 30px; /* Space between columns */
-    margin-top: 20px;
+    flex-direction: column;
   }
-
-  .column {
-    flex: 1; /* Makes columns equal width */
-    padding: 15px;
-    background-color: #fcfcfc;
-    border: 1px solid #eeeeee;
-    border-radius: 8px;
-  }
-
-  /* Makes it mobile-friendly */
-  @media (max-width: 768px) {
-    .two-column {
-      flex-direction: column;
-    }
-  }
+}
 </style>
