@@ -1,62 +1,44 @@
 ---
 layout: default
-title: Nathaniel Tan
-description: Data Analyst | Python • SQL • Power BI
 ---
 
+## 🚀 Featured Projects
+
 <div class="two-column">
+  
   <div class="column">
-    ## 👤 About Me
-    Data Analyst in Transition. I’m pivoting into a data analyst role and using this portfolio to document my projects, growth, and technical skills. Based in **Singapore** 📍.
-
-    ### 🛠 Technical Skills
-    * **Languages:** Python, SQL
-    * **Tools:** Power BI, Tableau, Excel
+    <h3>🐍 Python & SQL</h3>
+    <p><b>Project Alpha:</b> An end-to-end analysis of Singapore housing data using Pandas and SQL queries.</p>
+    <a href="LINK_HERE">View Code →</a>
   </div>
 
   <div class="column">
-    ## 🚀 Featured Projects
-    
-    **[Project Name 1](LINK)**
-    *Analyzed HDB price trends in Singapore using Python and Pandas.*
-    
-    **[Project Name 2](LINK)**
-    *Built a SQL-based dashboard for retail sales optimization.*
-
-    ### 🌐 Connect
-    * [LinkedIn](https://www.linkedin.com/in/nathaniel-tanla/)
-    * [GitHub](https://github.com/nattanla/)
+    <h3>📊 Visualization</h3>
+    <p><b>Project Beta:</b> Interactive Power BI dashboard tracking retail sales performance and KPIs.</p>
+    <a href="LINK_HERE">View Dashboard →</a>
   </div>
+
 </div>
 
 <style>
-/* This makes the page look much more modern */
-.two-column {
-  display: flex;
-  gap: 40px;
-  margin-top: 30px;
-}
-
-.column {
-  flex: 1;
-}
-
-/* Adds a nice subtle divider on desktop */
-.column:first-child {
-  border-right: 1px solid #eee;
-  padding-right: 20px;
-}
-
-@media (max-width: 768px) {
   .two-column {
-    flex-direction: column;
+    display: flex;
+    gap: 30px; /* Space between columns */
+    margin-top: 20px;
   }
-  .column:first-child {
-    border-right: none;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 20px;
-  }
-}
 
-h2 { color: #0366d6; }
+  .column {
+    flex: 1; /* Makes columns equal width */
+    padding: 15px;
+    background-color: #fcfcfc;
+    border: 1px solid #eeeeee;
+    border-radius: 8px;
+  }
+
+  /* Makes it mobile-friendly */
+  @media (max-width: 768px) {
+    .two-column {
+      flex-direction: column;
+    }
+  }
 </style>
