@@ -51,6 +51,11 @@ layout: default
         <li>Designed KPI cards, maps and charts to highlight party shifts.</li>
         <li>Used DAX to calculate vote margins and competitiveness metrics.</li>
       </ul>
+      <div class="project-footer">
+        <span class="tag">Power BI</span>
+        <a href="https://github.com/nattanla/US_election/blob/main/README.md" class="btn">View Full Project →</a>
+      </div>
+      </ul>
     </div>
   </div>
 
