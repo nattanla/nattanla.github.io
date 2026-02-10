@@ -5,7 +5,7 @@
 **Problem:** Analysed scam data to identify fraud patterns and at-risk victim groups using machine learning and clustering.
 - Developed fraud-risk models (**Logistic Regression**, **Random Forest**, **XGBoost**).  
 - Clustered Scamwatch data to identify high-risk/vulnerable victim groups with (**K-Means**, **HDBSCAN**, **Hierarchical**).
-- Visualised insights in Tableau dashboards for executive reporting.  
+- Visualised insights in Tableau dashboards for executive reporting.
 
 🔗 *Tools:* Python, Data Visualisation 
 
