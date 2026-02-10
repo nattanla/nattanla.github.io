@@ -4,60 +4,67 @@ layout: default
 
 <div class="two-column">
   <div class="column">
-    ## 📊 Projects
+    <h2>📊 Projects</h2>
 
-    ### 💳 Fraud & Scam Detection
-    **Problem:** Analysed scam data to identify fraud patterns and at-risk victim groups.
-    - Developed models (**Logistic Regression**, **XGBoost**).
-    - Clustered data to identify high-risk groups.
-    - [View Full Project →](https://github.com/nattanla/fraud-scam-detection/blob/main/README.md)
+    <h3>💳 Fraud & Scam Detection</h3>
+    <p><strong>Problem:</strong> Analysed scam data to identify fraud patterns and at-risk victim groups.</p>
+    <ul>
+      <li>Developed models (Logistic Regression, XGBoost).</li>
+      <li>Clustered data to identify high-risk groups.</li>
+    </ul>
+    <a href="https://github.com/nattanla/fraud-scam-detection/blob/main/README.md">View Full Project →</a>
 
-    <br>
+    <br><br>
 
-    ### 🏠 HDB Resale Price Prediction
-    **Problem:** Predictive models to estimate HDB resale prices across Singapore.
-    - Built **Linear Regression** and **XGBoost** models.
-    - Performed cleaning and feature engineering.
-    - [View Full Project →](https://github.com/nattanla/hdb_resale_prediction/blob/main/README.md)
+    <h3>🏠 HDB Resale Price Prediction</h3>
+    <p><strong>Problem:</strong> Predictive models to estimate HDB resale prices across Singapore.</p>
+    <ul>
+      <li>Built Linear Regression and XGBoost models.</li>
+      <li>Performed cleaning and feature engineering.</li>
+    </ul>
+    <a href="https://github.com/nattanla/hdb_resale_prediction/blob/main/README.md">View Full Project →</a>
   </div>
 
   <div class="column">
-    ### 🗳️ Election Analytics
-    **Problem:** Interactive dashboard for U.S. election voting trends.
-    - Designed KPI cards and maps in **Power BI**.
-    - Used DAX for competitiveness metrics.
-    - [View Full Project →](https://github.com/nattanla/US_election/blob/main/README.md)
+    <h3>🗳️ Election Analytics</h3>
+    <p><strong>Problem:</strong> Interactive dashboard for U.S. election voting trends.</p>
+    <ul>
+      <li>Designed KPI cards and maps in Power BI.</li>
+      <li>Used DAX for competitiveness metrics.</li>
+    </ul>
+    <a href="https://github.com/nattanla/US_election/blob/main/README.md">View Full Project →</a>
 
     <hr>
 
-    > “Data tells stories — I help organisations read them.”
+    <blockquote>
+      “Data tells stories — I help organisations read them.”
+    </blockquote>
     
-    ### 🛠 Tools & Stack
-    - **Python:** Pandas, Scikit-learn
-    - **SQL:** Data Extraction
-    - **Viz:** Power BI, Tableau
+    <h3>🛠 Tools & Stack</h3>
+    <ul>
+      <li><strong>Python:</strong> Pandas, Scikit-learn</li>
+      <li><strong>SQL:</strong> Data Extraction</li>
+      <li><strong>Viz:</strong> Power BI, Tableau</li>
+    </ul>
   </div>
 </div>
 
 <style>
-.two-column {
-  display: flex;
-  gap: 40px;
-}
-
-.column {
-  flex: 1;
-}
-
-/* Custom styling to make the headers look better */
-h3 {
-  color: #0366d6;
-  margin-top: 20px;
-}
-
-@media (max-width: 768px) {
   .two-column {
-    flex-direction: column;
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
   }
-}
+  .column {
+    flex: 1;
+  }
+  /* Fixes the text crowding */
+  h3 { margin-top: 0; color: #0366d6; }
+  ul { padding-left: 20px; }
+  li { margin-bottom: 5px; }
+  blockquote { font-style: italic; color: #666; border-left: 3px solid #eee; padding-left: 15px; }
+  
+  @media (max-width: 768px) {
+    .two-column { flex-direction: column; }
+  }
 </style>
