@@ -40,12 +40,6 @@ layout: default
       “Data tells stories — I help organisations read them.”
     </blockquote>
     
-    <h3>🛠 Tools & Stack</h3>
-    <ul>
-      <li><strong>Python:</strong> Pandas, Scikit-learn</li>
-      <li><strong>SQL:</strong> Data Extraction</li>
-      <li><strong>Viz:</strong> Power BI, Tableau</li>
-    </ul>
   </div>
 </div>
 
