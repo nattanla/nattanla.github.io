@@ -55,7 +55,6 @@ layout: default
         <span class="tag">Power BI</span>
         <a href="https://github.com/nattanla/US_election/blob/main/README.md" class="btn">View Full Project →</a>
       </div>
-      </ul>
     </div>
   </div>
 
