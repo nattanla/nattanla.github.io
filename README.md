@@ -7,7 +7,7 @@
 - Clustered Scamwatch data to identify high-risk/vulnerable victim groups with (**K-Means**, **HDBSCAN**, **Hierarchical**).
 - Visualised insights in Tableau dashboards for executive reporting.  
 
-🔗 *Tools:* Python, Data Visualisation
+🔗 *Tools:* Python, Data Visualisation 
 
 [View Full Project →](https://github.com/nattanla/fraud-scam-detection/blob/main/README.md)
 
